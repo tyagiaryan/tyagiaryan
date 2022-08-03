@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyagiarayan/](https://github.com/tyagiaryan/)
 
-📝 I Have my portfolio at [https://devangsharma.me/](https://tyagiaryan.github.io/Personal-Portfolio/)
+📝 I Have my portfolio at [https://tyagiaryan.me/](https://tyagiaryan.github.io/Personal-Portfolio/)
 
 - 💬 Ask me about **C/C++, Python, DSA, Competitive Programming**
 
