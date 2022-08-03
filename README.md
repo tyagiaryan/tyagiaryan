@@ -21,7 +21,7 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagiarysn&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=tyagiaryan&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagiarysn&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 </div>
 
