@@ -2,7 +2,7 @@
 
 ## I'm a IT student, ML practitioner & Competitive Programmer!
 
-- 🌱 I’m currently learning about **Competitive Programming** and **DSA**
+- 🌱 I’m currently learning about **Deep Learning** and **DSA**
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
@@ -21,7 +21,7 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tyagiaryan&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagiarysn&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=tyagiaryan&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagiaryan&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 </div>
 
@@ -69,16 +69,10 @@
 ### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
 
 <p align="left">
-	<a href="https://leetcode.com/abhaysaini2002/" target="_blank">
-		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
-	</a>
-	<a href="https://codeforces.com/profile/abhaysaini2000" target="_blank">
-		<img src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"  width="40" height="40"/>
-	</a>
-	<a href="https://auth.geeksforgeeks.org/user/abhaysaini2000/practice" target="_blank">
+	<a href="https://auth.geeksforgeeks.org/user/2002aryantyagi/practice" target="_blank">
 		<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" width="40" height="40"/>
 	</a>
-	<a href="https://www.codechef.com/users/abhaysaini2002" target="_blank">
+	<a href="https://www.codechef.com/users/aryan_tyagi007" target="_blank">
 		<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" width="60" height="40"/>
 	</a>
 </p>
