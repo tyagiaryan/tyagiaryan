@@ -50,24 +50,25 @@
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	</a>
-	<a href="https://reactnative.dev/" target="_blank">
+<!-- 	<a href="https://reactnative.dev/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/>
-	</a>
-	<a href="https://dart.dev" target="_blank">
+	</a> -->
+<!-- 	<a href="https://dart.dev" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-	</a>
-	<a href="https://firebase.google.com/" target="_blank">
+	</a> -->
+<!-- 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-	</a>
-	<a href="https://flutter.dev" target="_blank">
+	</a> -->
+<!-- 	<a href="https://flutter.dev" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-	</a>
+	</a> -->
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
 	<a href="https://www.python.org" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	</a>
+	
 </p>
 
 ### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
@@ -78,6 +79,9 @@
 	</a>
 	<a href="https://www.codechef.com/users/aryan_tyagi007" target="_blank">
 		<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" width="60" height="40"/>
+	</a>
+	<a href="https://leetcode.com/ARYANTYAGIGOLU/" target="_blank">
+		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
 	</a>
 </p>
 
