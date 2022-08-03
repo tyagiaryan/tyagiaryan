@@ -8,6 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyagiarayan/](https://github.com/tyagiaryan/)
 
+📝 I Have my portfolio at [https://devangsharma.me/](https://tyagiaryan.github.io/Personal-Portfolio/)
 
 - 💬 Ask me about **C/C++, Python, DSA, Competitive Programming**
 
@@ -18,8 +19,9 @@
 ### 👦Stats:
 
 <div align="left">
-<!-- ![profile visit](https://komarev.com/ghpvc/?username=tyagiaryan) 
-![Repos Badge](https://badges.pufler.dev/repos/tyagiaryan) -->
+	
+![profile visit](https://komarev.com/ghpvc/?username=tyagiaryan) 
+![Repos Badge](https://badges.pufler.dev/repos/tyagiaryan)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=tyagiaryan&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagiaryan&layout=compact&theme=buefy" alt="languages" height="165">
@@ -71,7 +73,6 @@
 	
 </p>
 
-### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
 
 <p align="left">
 	<a href="https://auth.geeksforgeeks.org/user/2002aryantyagi/practice" target="_blank">
