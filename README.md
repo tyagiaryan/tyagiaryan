@@ -36,7 +36,7 @@
 <br />
 
 
-![GitHub metrics](https://metrics.lecoq.io/ARYANTYAGIGOLU) <br>
+![GitHub metrics](https://metrics.lecoq.io/tyagiaryan) <br>
 
 ### 🏆 Github trophies
 
