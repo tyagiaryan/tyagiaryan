@@ -28,10 +28,13 @@
 
 ### 👨‍💻Connect with me
 
-[<img align="left" alt="f | LinkedIn" width="35px" src="https://www.linkedin.com/in/aryan-tyagi-9484ba202/" />][linkedin]
-[<img align="left" alt="f | Instagram" width="35px" src="https://www.instagram.com/_aryan_tyagi_10" />][instagram]
+[<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
+
+
+![GitHub metrics](https://metrics.lecoq.io/ARYANTYAGIGOLU) <br>
 
 ### 🏆 Github trophies
 
