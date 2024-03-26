@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **2002aryantyagi@gmail.com**
 
-- 📄 Know about other detail in my **[Resume](https://bit.ly/Aryan_IIITU_Resume)**
+- 📄 Know about other detail in my **[Resume](https://bit.ly/Aryan__Resume)**
 
 ### 👦Stats:
 
